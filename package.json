@@ -1,6 +1,6 @@
 {
   "name": "namespaced-types",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "namespaced redux types",
   "main": "dist/namespacedTypes.js",
   "scripts": {
